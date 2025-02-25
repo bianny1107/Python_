@@ -1,4 +1,4 @@
-# Python_
+# Python
 
 En python se usa # para poder comentar en una línea y las 3 comillas simples para poder comentar en más de una línea.
 
