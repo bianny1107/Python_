@@ -9,3 +9,6 @@ Fundado por Guido Van Rossum, Python se utiliza para:
 - Scriptng de sistema (automatización de tareas y ejecución de secuencias)
 
 Es importante que no se omita la sangría cuando sea necesaria utilizarla, porque sino dará error. De la misma manera, se deben utilizar el mismo número de espacios en los bloques de código.
+
+- [Variables_1](https://github.com/bianny1107/practicas_python/blob/main/variables1.py)
+- [Variables_2](https://github.com/bianny1107/practicas_python/blob/main/variables2.py)
