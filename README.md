@@ -12,6 +12,6 @@ Es importante que no se omita la sangría cuando sea necesaria utilizarla, porqu
 
 A continuación, se presentan los documentos de código que forman este repositorio:
 
-[Variables](https://github.com/bianny1107/Python/tree/main/variables)
+### [Variables](https://github.com/bianny1107/Python/tree/main/variables):
 - [Variables 1](https://github.com/bianny1107/practicas_python/blob/main/variables1.py)
 - [Variables 2](https://github.com/bianny1107/practicas_python/blob/main/variables2.py)
